@@ -285,7 +285,7 @@ body {
 /* Header */
 /* First screen */
 .first-screen {
-  height: 100vh;
+  height: 80vh;
   position: relative; }
 
 .first-screen .full-height {
